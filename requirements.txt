@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+
+# Database
+psycopg2-binary
+SQLAlchemy
+
+# Environment Variables
+python-dotenv
+
+#WhatsApp Automation
+pywhatkit
+pyautogui
+#uv pip uninstall pyautogui pywhatkit -y
+
